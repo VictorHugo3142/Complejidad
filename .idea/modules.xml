@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Complejidad.iml" filepath="$PROJECT_DIR$/.idea/Complejidad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Memoria-Dinamica/.idea/Memoria-Dinamica.iml" filepath="$PROJECT_DIR$/../Memoria-Dinamica/.idea/Memoria-Dinamica.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Memoria_Dinamica/.idea/Memoria_Dinamica.iml" filepath="$PROJECT_DIR$/../Memoria_Dinamica/.idea/Memoria_Dinamica.iml" />
     </modules>
   </component>
